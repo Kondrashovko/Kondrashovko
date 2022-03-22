@@ -7,6 +7,9 @@ Intern Data Science, I am studying on an educational platform.
    <a href="https://t.me/joinchat/kondrashovko">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
+   <a href="https://www.kaggle.com/konstantink101">
+       <img src="https://img.shields.io/badge/Kaggle-2CA5E0?style=for-the-badge&logo=kaggle&logoColor=white"/>
+   </a>
 </p>
 
 <p align='center'> 
@@ -15,12 +18,19 @@ Intern Data Science, I am studying on an educational platform.
 
 
 ### Key points
-*   
+*   Open for studying in Data Science:
+   **   Understand the new matlogics, algorithms;
+   **   Solve classical tasks to tabular data in Pandas and visualize them, train classifiers and regressors for tabular data;
+   **   Statistics, SQL, pandas, seaborn, tensorflow, pytorch, the basic concepts of NLP, in general, matlogics and language theory.
+   **   Data analisys;
+
 
 ## 🛠 Technical Stack
-*   Python/SQL languages
-*   OS Linux, Jupyter Notebook, PyCharm, SQL, Python, Numpy
+*   Python: pandas, numpy, seaborn, tensorflow, pytorch, the basic concepts of NLP;
+*   SQL;
+*   OS Linux;
 
 ### My opensource projects
 
-*  
+*  [Parcing auto.ru](https://github.com/Kondrashovko/skillfactory_rds/blob/main/module_6/Parcing_code.ipynb)
+*  [Car prediction](https://github.com/Kondrashovko/skillfactory_rds/blob/main/module_6/car-price-prediction-kk.ipynb)
