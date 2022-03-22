@@ -19,16 +19,17 @@ Intern Data Science, I am studying on an educational platform.
 
 ### Key points
 *   Open for studying in Data Science:
-   **   Understand the new matlogics, algorithms;
-   **   Solve classical tasks to tabular data in Pandas and visualize them, train classifiers and regressors for tabular data;
-   **   Statistics, SQL, pandas, seaborn, tensorflow, pytorch, the basic concepts of NLP, in general, matlogics and language theory.
-   **   Data analisys;
+*   Understand the new matlogics, algorithms;
+*   Solve classical tasks to tabular data in Pandas and visualize them, train classifiers and regressors for tabular data;
+*   Statistics, SQL, pandas, seaborn, tensorflow, pytorch, the basic concepts of NLP, in general, matlogics and language theory.
+*   Data analisys
 
 
 ## 🛠 Technical Stack
 *   Python: pandas, numpy, seaborn, tensorflow, pytorch, the basic concepts of NLP;
 *   SQL;
 *   OS Linux;
+*   English B1
 
 ### My opensource projects
 
