@@ -35,3 +35,6 @@ Intern Data Science, I am studying on an educational platform.
 
 *  [Parcing auto.ru](https://github.com/Kondrashovko/skillfactory_rds/blob/main/module_6/Parcing_code.ipynb)
 *  [Car prediction](https://github.com/Kondrashovko/skillfactory_rds/blob/main/module_6/car-price-prediction-kk.ipynb)
+*  [Creating an avatar](https://github.com/Kondrashovko/Computer_Vision/blob/main/NeiroDraw_with_style/My_NeiroDraw.ipynb)
+
+
