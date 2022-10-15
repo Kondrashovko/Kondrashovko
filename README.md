@@ -1,7 +1,7 @@
-# Hi, I'm Konstantin 👋
+## Hi, I'm Konstantin 👋
 
-In searching of job!
-Intern Data Science, I am studying on an educational platform.
+Looking for a job
+Intern Data Science, I'm studying by myself.
 
 <p align='center'>
    <a href="https://t.me/kondrashovko">
@@ -17,21 +17,20 @@ Intern Data Science, I am studying on an educational platform.
 </p>
 
 
-### Key points
-*   Open for studying in Data Science:
+### Key points:
+*   Open for studying in Data Science;
 *   Understanding of matlogics, algorithms;
 *   Solve classical tasks to tabular data in Pandas and visualize them, train classifiers and regressors for tabular data;
 *   Statistics, SQL, pandas, seaborn, tensorflow, pytorch, Computer Vision in particular, the basic concepts of NLP, in general matlogics and language theory.
-*   Data analisys
 
 
-## 🛠 Technical Stack
+### 🛠 Technical Stack:
 *   Python: pandas, numpy, seaborn, tensorflow, pytorch, the basic concepts of NLP;
 *   SQL;
 *   OS Linux;
-*   English B1
+*   English B1.
 
-### My opensource projects
+### My opensource projects:
 
 *  [Parcing auto.ru](https://github.com/Kondrashovko/skillfactory_rds/blob/main/module_6/Parcing_code.ipynb)
 *  [Car prediction](https://github.com/Kondrashovko/skillfactory_rds/blob/main/module_6/car-price-prediction-kk.ipynb)
