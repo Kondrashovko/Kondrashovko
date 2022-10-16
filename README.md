@@ -34,5 +34,5 @@ Intern Data Science, I'm studying by myself.
 
 *  [Parcing auto.ru](https://github.com/Kondrashovko/MyProjects/blob/main/Machine_learning/Car_price_prediction/Parcing_code.ipynb)
 *  [Car prediction](https://github.com/Kondrashovko/MyProjects/blob/main/Machine_learning/Car_price_prediction/car-price-prediction-kk.ipynb)
-*  [Creating an avatar](https://github.com/Kondrashovko/MyProjects/Computer_Vision/blob/main/NeiroDraw_with_style/My_NeiroDraw.ipynb)
+*  [Creating an avatar](https://github.com/Kondrashovko/MyProjects/blob/main/Computer_Vision/NeiroDraw_with_style/My_NeiroDraw.ipynb)
 *  [Try 3D scaner](https://github.com/Kondrashovko/MyProjects/blob/main/3D_scans/3d_scan_me.stl)
